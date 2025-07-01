@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nirab Luitel</h1>
+<h1 align="center">Hi 👋,</h1>
 <h3 align="center">Passionate data science learner, constantly exploring the depths of data to uncover meaningful insights and drive innovation</h3>
 
 
